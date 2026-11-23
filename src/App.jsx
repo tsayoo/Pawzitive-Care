@@ -1,12 +1,16 @@
 import BottomCard from "./components/BottomCard";
 import TopCard from "./components/TopCard";
-import LikeButton from "./components/LikeButton";
+import AddToCart from "./components/AddToCart";
+import GuestList from "./components/GuestList";
+import FetchData from "./components/FetchData";
 
 function App() {
   return (
     <div>
       <TopCard></TopCard>
-      <LikeButton></LikeButton>
+      <AddToCart></AddToCart>
+      <GuestList></GuestList>
+      <FetchData></FetchData>
       <BottomCard></BottomCard>
     </div>
   );
