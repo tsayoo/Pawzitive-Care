@@ -5,7 +5,7 @@ function AddToCart() {
 
   return (
     <div>
-      <h2>Kalung Kucing</h2>
+      <h2>Daftar Anggota Pawzy Baru</h2>
       <p>Jumlah: {tambah}</p>
       <button onClick={() => setTambah(tambah + 1)}>+</button>
       <button onClick={() => setTambah(tambah - 1)}>-</button>

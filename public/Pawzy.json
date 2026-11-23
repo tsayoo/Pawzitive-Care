@@ -1,0 +1,7 @@
+[
+  { "id": 1, "anabul": "Augra", "jenis": "Kucing", "pawrent": "Zelyn" },
+  { "id": 2, "anabul": "Bruno", "jenis": "Anjing", "pawrent": "Nio" },
+  { "id": 3, "anabul": "Miiko", "jenis": "Kucing", "pawrent": "Cala" },
+  { "id": 4, "anabul": "Ruby", "jenis": "Kelinci", "pawrent": "Hejiro" },
+  { "id": 5, "anabul": "Lumi", "jenis": "Kucing", "pawrent": "Razvan" }
+]
